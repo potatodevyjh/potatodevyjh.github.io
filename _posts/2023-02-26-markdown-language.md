@@ -2,7 +2,8 @@
 layout: post
 title: "Markdown Language"
 date: 2023-02-26 00:21:00 +0900
-categories: jekyll update
+categories: study
+tags: markdown
 ---
 
 ## 제목

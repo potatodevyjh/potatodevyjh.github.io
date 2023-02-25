@@ -31,6 +31,8 @@ url: https://potatodevyjh.github.io # the base hostname & protocol for your site
 github_username: potatodevyjh
 logo: "/assets/images/토깽.jpeg"
 
+category_list: [blog, study]
+
 # Build settings
 theme: minima
 plugins:
