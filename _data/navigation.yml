@@ -1,0 +1,10 @@
+# main links
+main-sider:
+  - title: "블로그 방문하기"
+    url: https://yoonjihee.com/
+  - title: "Projects"
+    url: /projects/
+  - title: "Study"
+    url: /study/
+  - title: "About Me"
+    url: /about/
