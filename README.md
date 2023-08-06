@@ -13,6 +13,7 @@
 
 ## Data Structure
     ├── _posts
+    │       YYYY-MM-DD-제목.md
     ├── _site
     │   ├── about
     │   ├── assets
